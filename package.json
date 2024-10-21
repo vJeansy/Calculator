@@ -1,6 +1,6 @@
 {
   "name": "my-calculator-app",
-  "homepage": "https://vjeansy.github.io/Calculator",
+  "homepage": "https://vjeansy.github.io/calculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
