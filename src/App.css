@@ -1,0 +1,44 @@
+*{ /* Replace browser values */
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-image: url(
+    https://cdn.vectorstock.com/i/500p/54/94/text-math-with-formula-border-background-vector-48965494.jpg
+    );
+}
+
+footer{
+  background-color: rgb(97, 134, 167);
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 5rem;
+  margin-bottom: 0;
+}
+
+.footer-container{
+  display: inline-flex;
+  margin-right: 3rem;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.footer-item{
+  list-style: none;
+}
+
+.footer-item a{
+  color: black;
+  font-size: 50px;
+}
+
+.footer-item a:hover{
+  color: aliceblue;
+}
